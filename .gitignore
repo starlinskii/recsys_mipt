@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.py[cod]
+*.pth
+*.pt
+*.ckpt
+*.zip
+*.tar
+*.gz
+.DS_Store
+hw1/data/raw/*
+hw1/data/processed/*
+!hw1/data/raw/.gitkeep
+!hw1/data/processed/.gitkeep
